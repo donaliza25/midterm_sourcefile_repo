@@ -63,3 +63,5 @@ console.log("Highest Score: " + highest);
 console.log("Lowest Score: " + lowest);
 console.log("Passed: " + passed);
 console.log("Failed: " + failed);
+
+// updated for commit history
