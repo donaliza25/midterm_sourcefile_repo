@@ -128,6 +128,8 @@ for (let row = 0; row < activityScores.length; row++) {
   console.log(originalNames[row] + "'s activity average:", rowAverage.toFixed(2));
 }
 
+// updated for commit history
+
 console.log("Activity Averages:", activityAverages);
 
 // PART H
