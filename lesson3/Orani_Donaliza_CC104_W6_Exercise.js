@@ -4,6 +4,7 @@ console.log('CAMPUS IT SUPPORT REQUEST MANAGER');
 
 // PART A: STACK  (LIFO) — Based on lesson notes:
 // push(), pop(), peek(), isEmpty(), size(), toString()
+// updated for commit history
 
 class Stack {
     constructor() {
